@@ -1,0 +1,12 @@
+# output generato dagli esperimenti
+output/
+
+# file temporanei MATLAB
+*.asv
+*.m~
+*.mlapp~
+
+# file di sistema
+.DS_Store
+Thumbs.db
+desktop.ini
